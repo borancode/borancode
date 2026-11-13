@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I’m Boran
 
-<!--
-**borancode/borancode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m learning AI Software Engineering and building software with Python, PyQt6, and SwiftUI.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### SystemPulse
+A Python and PyQt6 system-health dashboard with a macOS menu-bar interface and a Windows system-tray interface. It shows live system data, health insights, alerts, and report exports. Tested on macOS on an Apple M3; Windows support and real menu-bar icon clicks are not yet verified.
+
+### Pulo
+A macOS utility for checking server connections, testing API requests, monitoring saved servers, and identifying apps using ports. Built collaboratively with Mert.
+[Repository](https://github.com/ShnMert/Pulo)
+
+## More
+[Portfolio](https://borancode.github.io/portfolio/)
